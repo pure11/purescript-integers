@@ -14,6 +14,7 @@
 //
 #include <limits>
 #include <cmath>
+#include <bitset>
 #include <sstream>
 #include <iostream>
 #include "Int.hh"
